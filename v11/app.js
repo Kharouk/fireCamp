@@ -27,7 +27,7 @@ app.use(flash());
 
 // PASSPORT CONFIG
 app.use(require("express-session")({
-    secret: "I like butts",
+    secret: "banana bread",
     resave: false,
     saveUninitialized: false
 }));
